@@ -1,7 +1,7 @@
 {
   "name": "com.unitysupport.examplepackage",
   "displayName": "Example Package",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2022.3",
   "description": "Example package for diagnosing Unity issues.",
   "changelogUrl": "https://raw.githubusercontent.com/jwtan-unity/com.unitysupport.examplepackage/refs/heads/master/CHANGELOG.md",
@@ -9,7 +9,7 @@
       {
           "displayName": "My First Sample",
           "description": "This is a sample description.",
-          "path": "Samples/MyFirstSample"
+          "path": "Samples~/MyFirstSample"
       }
   ]
 }
