@@ -4,5 +4,5 @@
   "version": "0.0.1",
   "unity": "2022.3",
   "description": "Example package for diagnosing Unity issues.",
-  "changelogUrl": "https://github.com/jwtan-unity/com.unitysupport.examplepackage/blob/master/CHANGELOG.md"
+  "changelogUrl": "https://raw.githubusercontent.com/jwtan-unity/com.unitysupport.examplepackage/refs/heads/master/CHANGELOG.md"
 }
