@@ -1,15 +1,18 @@
 {
-  "name": "com.unitysupport.examplepackage",
-  "displayName": "Example Package",
-  "version": "0.0.4",
-  "unity": "2022.3",
-  "description": "Example package for diagnosing Unity issues.",
-  "changelogUrl": "https://raw.githubusercontent.com/jwtan-unity/com.unitysupport.examplepackage/refs/heads/master/CHANGELOG.md",
-  "samples": [
-      {
-          "displayName": "My First Sample",
-          "description": "This is a sample description.",
-          "path": "Samples~/MyFirstSample"
-      }
-  ]
+    "name": "com.unitysupport.examplepackage",
+    "displayName": "Example Package",
+    "version": "0.0.5",
+    "unity": "2022.3",
+    "description": "Example package for diagnosing Unity issues.",
+    "changelogUrl": "https://raw.githubusercontent.com/jwtan-unity/com.unitysupport.examplepackage/refs/heads/master/CHANGELOG.md",
+    "_upm": {
+        "changelog": "Integration:\n\n- Fix handling of asset-pipeline refresh-mode setting.\n\nProject generation:\n\n- Add `EnableOnDemandExcludedFolderLoading` capability when generating SDK-Style project."
+    },
+    "samples": [
+        {
+            "displayName": "Leaderboards Sample",
+            "description": "This is a sample description.",
+            "path": "Samples~/Leaderboards"
+        }
+    ]
 }
